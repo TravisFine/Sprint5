@@ -6,6 +6,17 @@ Travis Fine and Mackenzie Yates
 
 We worked only with ourself on this assignment as far as human rescources. We did use Ai to gather sources, answer questions about the sources and content as well as implementation, and work with us through some issues and errors we faced throughout the project. Ai did not code anything itself nor did we ask/recieve specific answers from it. All work and code is our own.
 
+The sources we used:
+
+1. https://brennan.io/2015/01/16/write-a-shell-in-c/
+2. https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf
+3. https://man7.org/linux/man-pages/man3/getline.3.html
+4. https://man7.org/linux/man-pages/man3/strtok.3.html
+5. https://man7.org/linux/man-pages/man3/getcwd.3.html
+6. https://man7.org/linux/man-pages/man2/chdir.2.html
+7. https://man7.org/linux/man-pages/man2/open.2.html
+8. https://man7.org/linux/man-pages/man2/dup.2.html
+
 * **Honor Code statement:**
 
 On our honor, we have not given nor recieved nor witnessed any unauthorized help on this assignment.
