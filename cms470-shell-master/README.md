@@ -22,4 +22,4 @@ Not to our knowledge. We used ai to help us with issues, errors, and testing to 
 
 Travis: Working with the parent and child processes were a little confusing to me personally. It was really nice seeing it all come together and actually running commands through our shell.
 
-Mackenzie: 
+Mackenzie: Getting the commands with no arguments to run for the first one and getting the shell to finally run a command.
